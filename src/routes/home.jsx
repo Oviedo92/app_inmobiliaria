@@ -10,7 +10,7 @@ const Home = () => {
 
       {/* Contenido principal */}
       <Container className="py-5 text-center">
-        <h1 className="display-4 mb-4 text-success fw-bold">Bienvenido a LamaState 🏡</h1>
+        <h1 className="display-4 mb-4 text-success fw-bold">Bienvenido a LamaEstate 🏡</h1>
         <p className="lead mb-5">
           <strong>Compra</strong>, <strong>Vende</strong> y <strong>Arrienda</strong>
           <br />

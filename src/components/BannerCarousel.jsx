@@ -14,6 +14,8 @@ const BannerCarousel = () => {
         <Carousel.Caption className="bg-dark bg-opacity-50 p-3 rounded">
           <h3>Casa en venta Valledupar</h3>
           <p>2 habitaciones, 2 baños, balcón panorámico, cocina y zona social con piscina.</p>
+          <p className="text-warning fw-gris">Contacta +57 3133581644</p>
+          
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>

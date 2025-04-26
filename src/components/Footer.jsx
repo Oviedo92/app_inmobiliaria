@@ -15,7 +15,7 @@ const Footer = () => {
             <h5 className="fw-semibold">📞 Contacto</h5>
             <p><i className="fas fa-envelope me-2"></i> eleonardooviedo@unicesar.edu.co</p>
             <p><i className="fas fa-envelope me-2"></i> rcgonzalez@unicesar.edu.co</p>
-            <p><i className="fas fa-envelope me-2"></i> rcgonzalez@unicesar.edu.co</p>
+            <p><i className="fas fa-envelope me-2"></i> marlonamartinez@unicesar.edu.co</p>
             <p><i className="fas fa-map-marker-alt me-2"></i> Sede principal</p>
             <p><i className="sede"></i> Valledupar, Cesar, Colombia</p>
             <p><i className="fas fa-phone me-2"></i> +57 300 123 4567</p>
